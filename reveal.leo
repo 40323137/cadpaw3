@@ -2026,12 +2026,24 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 <t tx="amd.20150915211351.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-
 &lt;section&gt;
+
+    &lt;section&gt;
         &lt;h1&gt;有關我的作業&lt;/h1&gt;
         &lt;p&gt;40323137郭世欣1041001&lt;/p&gt;		
-&lt;/section&gt;
-        </t>
+    &lt;/section&gt;
+        
+    &lt;section&gt;
+        &lt;h1&gt;有關我的作業1&lt;/h1&gt;
+        &lt;p&gt;40323137郭世欣1041001&lt;/p&gt;		
+    &lt;/section&gt;
+    
+    &lt;section&gt;
+        &lt;h1&gt;有關我的作業2&lt;/h1&gt;
+        &lt;p&gt;40323137郭世欣1041001&lt;/p&gt;		
+    &lt;/section&gt;
+    
+&lt;/section&gt;</t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;作業任務一&lt;/h1&gt;
     &lt;p&gt;將新增在遠端的檔案進行刪除
