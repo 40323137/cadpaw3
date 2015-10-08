@@ -1995,7 +1995,11 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
 &lt;/section&gt;
 				
-</t>
+&lt;section&gt;
+    &lt;h1&gt;第4張投影片(新增投影片)&lt;/h1&gt;
+    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
+    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務二&lt;/a&gt;
+&lt;/section&gt;</t>
 <t tx="amd.20150915211351.15">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -2039,7 +2043,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
         &lt;p&gt;40323137郭世欣1041001&lt;/p&gt;		
     &lt;/section&gt;
     
-&lt;section&gt;</t>
+&lt;/section&gt;</t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;作業任務一&lt;/h1&gt;
     &lt;p&gt;將新增在遠端的檔案進行刪除
