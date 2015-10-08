@@ -2263,9 +2263,6 @@ sudo pip3 install IPython[notebook]==3.2.1
     &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
 &lt;/section&gt;
 				
- &lt;section&gt;
-     &lt;h1&gt; 一節點有兩投影片&lt;/h1&gt;
-&lt;/section&gt;
 </t>
 <t tx="leo.20151008095238.1">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;作業任務三&lt;/h1&gt;
