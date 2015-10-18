@@ -293,8 +293,8 @@
 <v t="amd.20150915211351.7"><vh>有關我的作業</vh></v>
 <v t="amd.20150915211351.9"><vh>作業任務一</vh></v>
 <v t="leo.20151008093708.1"><vh>作業任務二</vh></v>
-<v t="leo.20151008095238.1"><vh>作業任務二</vh></v>
-<v t="amd.20150915211351.12"><vh>第3張投影片</vh></v>
+<v t="leo.20151008095238.1"><vh>作業任務三</vh></v>
+<v t="amd.20150915211351.12"><vh>自評</vh></v>
 </v>
 </v>
 <v t="amd.20150915211351.15"><vh>script</vh></v>
@@ -1990,8 +1990,8 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 @others
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
-    &lt;h1&gt;第3張投影片&lt;/h1&gt;
-    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;自評75分&lt;/p&gt;
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
 &lt;/section&gt;
 				
