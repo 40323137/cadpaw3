@@ -1702,7 +1702,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;/section&gt;
 
            
- &lt;/section&gt; 	
+
 </t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;學員加入協同者&lt;/h1&gt;
