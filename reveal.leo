@@ -25,7 +25,7 @@
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican</vh>
 <v t="amd.20151006130205.1"><vh>@edit publishconf.py</vh></v>
 <v t="amd.20151006113136.1" a="E"><vh>@path content</vh>
-<v t="amd.20150919114035.1"><vh>@edit 2015cphww3.md</vh></v>
+<v t="amd.20150919114035.1"><vh>@edit 2015cphww6.md</vh></v>
 <v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 </v>
@@ -282,8 +282,6 @@
 <v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
 <v t="amd.20150915211351.7"><vh>有關我的作業</vh></v>
 <v t="amd.20150915211351.9"><vh>作業任務一</vh></v>
-<v t="leo.20151018202020.1"><vh>作業任務二</vh></v>
-<v t="leo.20151018202049.1"><vh>作業任務三</vh></v>
 <v t="amd.20150915211351.12"><vh>自評</vh></v>
 </v>
 </v>
@@ -1648,22 +1646,12 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;/head&gt;
 @others
 </t>
-<t tx="amd.20150915211351.12"> &lt;section&gt;
-    &lt;h1&gt;第3張投影片&lt;/h1&gt;
-     &lt;p&gt;自評80分&lt;/p&gt;
-      &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
-      
-  &lt;/section&gt;
-  				
- &lt;section&gt;
-     &lt;h1&gt;第4張投影片(新增投影片)&lt;/h1&gt;
-     &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務二&lt;/a&gt;
- &lt;/section&gt;
-
-
-
-
+<t tx="amd.20150915211351.12">&lt;section&gt;
+    &lt;h1&gt;心得、自評&lt;/h1&gt;
+    &lt;p&gt;自評80分&lt;/p&gt;
+    &lt;p&gt;心得：用老師早已設定好的revel.leo，也是讓我們懂很多基礎，向建立分支、安裝leo，解決問題。&lt;/p&gt;
+    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;
 
 
 
@@ -1706,35 +1694,21 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 <t tx="amd.20150915211351.7">&lt;!-- 以下為投影片 --&gt;
   &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
   &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-  &lt;section&gt;
- 
-         
-     &lt;section&gt;
-         &lt;h1&gt;有關我的作業1&lt;/h1&gt;
-        &lt;p&gt;40323137郭世欣1041001&lt;/p&gt;		
-     &lt;/section&gt;
-     
-     &lt;section&gt;
-         &lt;h1&gt;有關我的作業2&lt;/h1&gt;
-     &lt;p&gt;40323137郭世欣1041001&lt;/p&gt;		
-     &lt;/section&gt;
-     
+
+
+&lt;section&gt;
+    &lt;h1&gt;有關我的作業&lt;/h1&gt;
+    &lt;p&gt;40323137郭世欣1041022&lt;/p&gt;		
+&lt;/section&gt;
 
            
  &lt;/section&gt; 	
 </t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
-      &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;將新增在遠端的檔案進行刪除
-     例如檔案為test1.txt，假如已經上傳至github，在cmd輸入 
-     1. git rm test1.txt
-     2. git add -A
-     3. git commit -m "remove test1.txt"
-     4. git push
-     5. 輸入github帳號密碼即完成&lt;/p&gt;
-      &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
-  &lt;/section&gt;</t>
+    &lt;h1&gt;學員加入協同者&lt;/h1&gt;
+    &lt;p&gt;各學員必須先加入為協同者後, 在 user 目錄下, 以學號新增目錄, 然後從 9999 目錄中複製內容, 並加入各週作業內容, 例如: 二甲學號為 9999 同學的作業網頁:&lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/9999/"&gt;github&lt;/a&gt;
+&lt;/section&gt;	</t>
 <t tx="amd.20150917085040.1">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
@@ -2066,15 +2040,5 @@ Diff...
 + &lt;/section&gt;
 + 				
 </t>
-<t tx="leo.20151018202020.1">&lt;section id="hw-task-one"&gt;
-     &lt;h1&gt;作業任務二&lt;/h1&gt;
-     &lt;p&gt;在節點中新增投影片，利用"section"來新增投影片。&lt;/p&gt;
-     &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
- &lt;/section&gt;</t>
-<t tx="leo.20151018202049.1">&lt;section id="hw-task-one"&gt;
-     &lt;h1&gt;作業任務三&lt;/h1&gt;
-     &lt;p&gt;到課程網站，尋找solvespace，下載solvespace.exe。照著網站去做練習。&lt;/p&gt;
-     &lt;p&gt;請參考 &lt;a href="http://solvespace.com/tutorial.pl "&gt;solvespace&lt;/a&gt;
- &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
